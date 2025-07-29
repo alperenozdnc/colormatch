@@ -5,7 +5,7 @@ export default {
     content: ["./app/**/*.{js,jsx,ts,tsx}"],
     presets: [NativeWindPreset],
     theme: {
-        extend: {},
+        extend: {}
     },
-    plugins: [],
-}
+    plugins: []
+};
